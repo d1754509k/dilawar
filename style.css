@@ -1,0 +1,88 @@
+
+
+ h1{
+   color: #ffa511;
+   font-family: league spartan ;
+   text-align: center;
+   font-size: ; 55px;
+   font-weight :900;
+   lett
+
+}
+
+
+h2{
+   
+ color: rgb(0, 0, 0);
+text-decoration:greens double overline;
+
+}
+label{
+    color: blue; 
+ 
+    font-weight: 700;
+    text-align: center;
+}
+input{
+
+
+    color: blue;
+    text-align: center;
+
+}
+th{
+
+    color: aqua; background-color: blueviolet;
+}
+
+td{
+
+    color: rgb(217, 255, 0); background-color: rgb(45, 77, 111);
+}
+
+
+h4 {
+    color: red; 
+  }
+  
+  
+
+ h5{
+    color:blue;
+}
+
+button {
+    color: yellow; background-color: black;
+}
+
+
+h6{
+    color: aqua; 
+}
+
+button{
+    color: aqua; background-color: black;
+}
+p{
+    color: #ffa511;
+    font-family: league spartan ;
+    text-align: center;
+    font-size: 55px;    
+    font-weight: 900px;
+    letter-spacing: 2px;
+    line-height: 1.5x;
+    text-decoration: teal double underline;
+
+}
+h3{
+    background-color: none;
+}
+
+a{
+text-decoration: none;
+
+}
+
+
+
+
